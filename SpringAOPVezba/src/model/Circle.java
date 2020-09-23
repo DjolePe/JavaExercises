@@ -13,7 +13,7 @@ public class Circle {
 		System.out.println("Circle setters called");
 	}
 	
-	public String SetNameAndReturn(String name1)
+	public String SetNameAndReturn(String name)
 	{
 		this.name = name;
 		System.out.println("Circle setters called");
